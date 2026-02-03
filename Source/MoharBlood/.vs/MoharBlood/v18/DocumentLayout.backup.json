@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96F76-FADC-7BDD-96FA-6DDA57E68CDF}|MoharBlood.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharblood\\bloodcolordef\\damageflash\\harmony\\patch_damageflasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96F76-FADC-7BDD-96FA-6DDA57E68CDF}|MoharBlood.csproj|solutionrelative:bloodcolordef\\damageflash\\harmony\\patch_damageflasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96F76-FADC-7BDD-96FA-6DDA57E68CDF}|MoharBlood.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharblood\\toolspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96F76-FADC-7BDD-96FA-6DDA57E68CDF}|MoharBlood.csproj|solutionrelative:toolspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C96F76-FADC-7BDD-96FA-6DDA57E68CDF}|MoharBlood.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharblood\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C96F76-FADC-7BDD-96FA-6DDA57E68CDF}|MoharBlood.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToolsPawn.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\ToolsPawn.cs",
+              "RelativeDocumentMoniker": "ToolsPawn.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\ToolsPawn.cs",
+              "RelativeToolTip": "ToolsPawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:43:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patch_DamageFlasher.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\BloodColorDef\\DamageFlash\\Harmony\\Patch_DamageFlasher.cs",
+              "RelativeDocumentMoniker": "BloodColorDef\\DamageFlash\\Harmony\\Patch_DamageFlasher.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\BloodColorDef\\DamageFlash\\Harmony\\Patch_DamageFlasher.cs",
+              "RelativeToolTip": "BloodColorDef\\DamageFlash\\Harmony\\Patch_DamageFlasher.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwEoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:42:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:41:42.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

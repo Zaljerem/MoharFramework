@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\obj\Release\net48\YourOwnRaceHediffGiver.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\obj\Release\net48\YourOwnRaceHediffGiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\obj\Release\net48\YourOwnRaceHediffGiver.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\obj\Release\net48\YourOwnRaceHediffGiver.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\bin\Release\net48\YourOwnRaceHediffGiver.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\bin\Release\net48\YourOwnRaceHediffGiver.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\obj\Release\net48\YourOwnRaceHediffGiver.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\YourOwnRaceHediffGiver\obj\Release\net48\YourOwnRaceHediffGiver.pdb

@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\comp\\utils\\setupcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:comp\\utils\\setupcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\comp\\utils\\reservationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:comp\\utils\\reservationutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\comp\\decorate\\compproperties_decorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:comp\\decorate\\compproperties_decorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\comp\\decorate\\compdecorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:comp\\decorate\\compdecorate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\motedecoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\motedecoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\workstructure\\motetracerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\workstructure\\motetracerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\workstructure\\motetracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\workstructure\\motetracer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\substructure\\offset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\substructure\\offset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\substructure\\displaytransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\substructure\\displaytransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\substructure\\displaycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\substructure\\displaycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\conditions\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\conditions\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\conditions\\graceticks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\conditions\\graceticks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\conditions\\fuelandpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\conditions\\fuelandpower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\00structure\\conditions\\coexisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:00structure\\conditions\\coexisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharcomp\\overlayedbuilding\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD2F7AE-20D4-4AA0-65F3-D98952C2BBAB}|OLB.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:44.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GfxEffects.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\GfxEffects.cs",
+              "RelativeDocumentMoniker": "GfxEffects.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\GfxEffects.cs",
+              "RelativeToolTip": "GfxEffects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:42.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SetupCheck.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Utils\\SetupCheck.cs",
+              "RelativeDocumentMoniker": "Comp\\Utils\\SetupCheck.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Utils\\SetupCheck.cs",
+              "RelativeToolTip": "Comp\\Utils\\SetupCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:38.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Utils\\ReservationUtils.cs",
+              "RelativeDocumentMoniker": "Comp\\Utils\\ReservationUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Utils\\ReservationUtils.cs",
+              "RelativeToolTip": "Comp\\Utils\\ReservationUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:35.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompProperties_Decorate.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Decorate\\CompProperties_Decorate.cs",
+              "RelativeDocumentMoniker": "Comp\\Decorate\\CompProperties_Decorate.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Decorate\\CompProperties_Decorate.cs",
+              "RelativeToolTip": "Comp\\Decorate\\CompProperties_Decorate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompDecorate.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Decorate\\CompDecorate.cs",
+              "RelativeDocumentMoniker": "Comp\\Decorate\\CompDecorate.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Comp\\Decorate\\CompDecorate.cs",
+              "RelativeToolTip": "Comp\\Decorate\\CompDecorate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:22.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoteDecoration.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\MoteDecoration.cs",
+              "RelativeDocumentMoniker": "00Structure\\MoteDecoration.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\MoteDecoration.cs",
+              "RelativeToolTip": "00Structure\\MoteDecoration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:16.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoteTracerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\WorkStructure\\MoteTracerUtils.cs",
+              "RelativeDocumentMoniker": "00Structure\\WorkStructure\\MoteTracerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\WorkStructure\\MoteTracerUtils.cs",
+              "RelativeToolTip": "00Structure\\WorkStructure\\MoteTracerUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MoteTracer.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\WorkStructure\\MoteTracer.cs",
+              "RelativeDocumentMoniker": "00Structure\\WorkStructure\\MoteTracer.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\WorkStructure\\MoteTracer.cs",
+              "RelativeToolTip": "00Structure\\WorkStructure\\MoteTracer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:09.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Offset.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\SubStructure\\Offset.cs",
+              "RelativeDocumentMoniker": "00Structure\\SubStructure\\Offset.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\SubStructure\\Offset.cs",
+              "RelativeToolTip": "00Structure\\SubStructure\\Offset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:48:04.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DisplayTransformation.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\SubStructure\\DisplayTransformation.cs",
+              "RelativeDocumentMoniker": "00Structure\\SubStructure\\DisplayTransformation.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\SubStructure\\DisplayTransformation.cs",
+              "RelativeToolTip": "00Structure\\SubStructure\\DisplayTransformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:47:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DisplayCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\SubStructure\\DisplayCondition.cs",
+              "RelativeDocumentMoniker": "00Structure\\SubStructure\\DisplayCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\SubStructure\\DisplayCondition.cs",
+              "RelativeToolTip": "00Structure\\SubStructure\\DisplayCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:47:53.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\Reservation.cs",
+              "RelativeDocumentMoniker": "00Structure\\Conditions\\Reservation.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\Reservation.cs",
+              "RelativeToolTip": "00Structure\\Conditions\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:47:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GraceTicks.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\GraceTicks.cs",
+              "RelativeDocumentMoniker": "00Structure\\Conditions\\GraceTicks.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\GraceTicks.cs",
+              "RelativeToolTip": "00Structure\\Conditions\\GraceTicks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:47:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FuelAndPower.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\FuelAndPower.cs",
+              "RelativeDocumentMoniker": "00Structure\\Conditions\\FuelAndPower.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\FuelAndPower.cs",
+              "RelativeToolTip": "00Structure\\Conditions\\FuelAndPower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:47:41.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Coexisting.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\Coexisting.cs",
+              "RelativeDocumentMoniker": "00Structure\\Conditions\\Coexisting.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\00Structure\\Conditions\\Coexisting.cs",
+              "RelativeToolTip": "00Structure\\Conditions\\Coexisting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:47:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharComp\\OverlayedBuilding\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:46:51.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

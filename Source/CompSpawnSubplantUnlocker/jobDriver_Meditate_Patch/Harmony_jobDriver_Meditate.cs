@@ -6,21 +6,19 @@ using System.Reflection;
 using System.Reflection.Emit;
 using HarmonyLib;
 
-using RimWorld;
-
 
 namespace CSSU
 {
-    public class Harmony_jobDriver_Meditate
+    public class Harmony_JobDriver_Meditate
     {
-        private static readonly string TranspilePatchName = nameof(RimWorld_jobDriver_Meditate_HarmonyPatch.JobDriver_Meditate_Transpile);
+        private static readonly string TranspilePatchName = nameof(RimWorld_JobDriver_Meditate_HarmonyPatch.JobDriver_Meditate_Transpile);
 
-        private static readonly Type patchType = typeof(RimWorld_jobDriver_Meditate_HarmonyPatch);
+        private static readonly Type patchType = typeof(RimWorld_JobDriver_Meditate_HarmonyPatch);
         private static readonly Type patchUtilsType = typeof(JobDriver_Meditate_Utils);
         private static readonly Type patchHarmonyUtilsType = typeof(Harmony_Utils);
 
         // RimWorld jobDriver_Meditate MakeNewToils
-        public static bool Try_jobDriver_Meditate_IEnumeratorMoveNext_Patch(Harmony myPatch)
+        public static bool Try_JobDriver_Meditate_IEnumeratorMoveNext_Patch(Harmony myPatch)
         {
             try
             {
@@ -44,7 +42,7 @@ namespace CSSU
             return true;
         }
 
-        public static class RimWorld_jobDriver_Meditate_HarmonyPatch
+        public static class RimWorld_JobDriver_Meditate_HarmonyPatch
         {
             public static IEnumerable<CodeInstruction> JobDriver_Meditate_Transpile(IEnumerable<CodeInstruction> instructions)
             {

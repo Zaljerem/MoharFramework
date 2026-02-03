@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\bin\Release\net48\MoharHediffs.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\bin\Release\net48\MoharHediffs.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\obj\Release\net48\MoharHediffs.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\obj\Release\net48\MoharHediffs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\obj\Release\net48\MoharHediffs.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\obj\Release\net48\MoharHediffs.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\obj\Release\net48\MoharHediffs.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharHediffs\obj\Release\net48\MoharHediffs.pdb

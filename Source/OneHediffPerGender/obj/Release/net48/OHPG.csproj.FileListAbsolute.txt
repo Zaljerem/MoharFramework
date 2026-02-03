@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\bin\Release\net48\OHPG.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\bin\Release\net48\OHPG.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\obj\Release\net48\OHPG.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\obj\Release\net48\OHPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\obj\Release\net48\OHPG.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\obj\Release\net48\OHPG.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\obj\Release\net48\OHPG.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerGender\obj\Release\net48\OHPG.pdb

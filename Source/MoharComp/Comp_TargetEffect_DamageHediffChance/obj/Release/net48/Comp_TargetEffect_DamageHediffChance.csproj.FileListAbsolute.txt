@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\bin\Release\net48\Comp_TargetEffect_DamageHediffChance.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\bin\Release\net48\Comp_TargetEffect_DamageHediffChance.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\obj\Release\net48\Comp_TargetEffect_DamageHediffChance.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\obj\Release\net48\Comp_TargetEffect_DamageHediffChance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\obj\Release\net48\Comp_TargetEffect_DamageHediffChance.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\obj\Release\net48\Comp_TargetEffect_DamageHediffChance.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\obj\Release\net48\Comp_TargetEffect_DamageHediffChance.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\Comp_TargetEffect_DamageHediffChance\obj\Release\net48\Comp_TargetEffect_DamageHediffChance.pdb

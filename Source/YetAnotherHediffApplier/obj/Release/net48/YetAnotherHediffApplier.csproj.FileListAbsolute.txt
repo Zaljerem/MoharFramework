@@ -1,0 +1,7 @@
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\bin\Release\net48\YetAnotherHediffApplier.dll
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\bin\Release\net48\YetAnotherHediffApplier.pdb
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\obj\Release\net48\YetAnotherHediffApplier.csproj.AssemblyReference.cache
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\obj\Release\net48\YetAnotherHediffApplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\obj\Release\net48\YetAnotherHediffApplier.csproj.CoreCompileInputs.cache
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\obj\Release\net48\YetAnotherHediffApplier.dll
+C:\Users\conse\Desktop\Rim Flood (Continued)\1.6\Source\YetAnotherHediffApplier\obj\Release\net48\YetAnotherHediffApplier.pdb

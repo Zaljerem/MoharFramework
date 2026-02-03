@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\bin\Release\net48\DisplayITab.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\bin\Release\net48\DisplayITab.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\obj\Release\net48\DisplayITab.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\obj\Release\net48\DisplayITab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\obj\Release\net48\DisplayITab.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\obj\Release\net48\DisplayITab.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\obj\Release\net48\DisplayITab.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\DisplayItab\obj\Release\net48\DisplayITab.pdb

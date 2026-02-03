@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\bin\Release\net48\ShieldApparel.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\bin\Release\net48\ShieldApparel.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\obj\Release\net48\ShieldApparel.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\obj\Release\net48\ShieldApparel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\obj\Release\net48\ShieldApparel.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\obj\Release\net48\ShieldApparel.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\obj\Release\net48\ShieldApparel.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ShieldApparel\obj\Release\net48\ShieldApparel.pdb

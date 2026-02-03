@@ -38,7 +38,7 @@ namespace CSSU
             }
             */
 
-            if (Harmony_jobDriver_Meditate.Try_jobDriver_Meditate_IEnumeratorMoveNext_Patch(CSSU_HarmonyPatch))
+            if (Harmony_JobDriver_Meditate.Try_JobDriver_Meditate_IEnumeratorMoveNext_Patch(CSSU_HarmonyPatch))
                 Log.Message(CSSU_HarmonyPatch.Id + " patched JobDriver_Meditate.MakeNewToils successfully.");
 
         }

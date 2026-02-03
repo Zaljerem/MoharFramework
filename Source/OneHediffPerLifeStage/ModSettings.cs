@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Verse;
+﻿using Verse;
 using UnityEngine;
 
 
@@ -29,7 +27,7 @@ namespace OHPLS
 
         public override string SettingsCategory()
         {
-            return "MOHAR - OHPLS stands for One Hediff Per Life Stage";
+            return "ModName_OHPLS".Translate();
         }
 
         public override void DoSettingsWindowContents(Rect inRect)
@@ -37,17 +35,17 @@ namespace OHPLS
             Listing_Standard listing = new Listing_Standard();
             listing.Begin(inRect);
 
-            listing.Label("Safe mod removal");
+            listing.Label("OHPLS_Label".Translate());
             listing.GapLine();
             listing.Label(
-                " 1. Check this if you want to remove the mod"+
-                "\n 2. Load your saved game, wait a few seconds"+
-                "\n 3. Save, preferably in another slot"+
-                "\n 4. Quit and remove the mod"+
-                "\n 5. Load your last save"
+                "OHPLS_Label1".Translate() +
+                "OHPLS_Label2".Translate() +
+                "OHPLS_Label3".Translate() +
+                "OHPLS_Label4".Translate() +
+                "OHPLS_Label5".Translate()
             );
 
-            listing.CheckboxLabeled("SafeModRemoval: ", ref settings.SafeRemoval);
+            listing.CheckboxLabeled("OHPLS_SMR".Translate(), ref settings.SafeRemoval);
 
             listing.End();
             base.DoSettingsWindowContents(inRect);

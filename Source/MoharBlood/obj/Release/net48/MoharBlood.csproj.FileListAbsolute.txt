@@ -1,0 +1,4 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharBlood\obj\Release\net48\MoharBlood.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharBlood\obj\Release\net48\MoharBlood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharBlood\obj\Release\net48\MoharBlood.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharBlood\obj\Release\net48\MoharBlood.sourcelink.json

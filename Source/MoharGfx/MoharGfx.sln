@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11415.280 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoharGfx", "RimWorld_ExampleProjectDLL\MoharGfx.csproj", "{A36BEEB2-7379-475B-B537-827E34571962}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoharGfx", "MoharGfx.csproj", "{F315305A-F963-1EA3-3249-41CE392493DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A36BEEB2-7379-475B-B537-827E34571962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A36BEEB2-7379-475B-B537-827E34571962}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A36BEEB2-7379-475B-B537-827E34571962}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A36BEEB2-7379-475B-B537-827E34571962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F315305A-F963-1EA3-3249-41CE392493DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F315305A-F963-1EA3-3249-41CE392493DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F315305A-F963-1EA3-3249-41CE392493DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F315305A-F963-1EA3-3249-41CE392493DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7D9775F1-8CE8-4465-B096-74CCB8422974}
+		SolutionGuid = {97D6E116-1ABC-4E7F-8CF7-D6AA59D29716}
 	EndGlobalSection
 EndGlobal

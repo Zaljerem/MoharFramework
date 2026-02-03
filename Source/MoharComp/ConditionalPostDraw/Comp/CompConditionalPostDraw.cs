@@ -7,7 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-// ConPoDra stands for Conditionnal PostDraw
+// ConPoDra stands for Conditional PostDraw
 
     //Todo
 //post expose data

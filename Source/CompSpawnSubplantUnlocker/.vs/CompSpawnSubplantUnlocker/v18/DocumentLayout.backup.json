@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3284C898-58C5-18CA-7DB5-60B8C2D0A1FB}|CompSpawnSubplantUnlocker.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\compspawnsubplantunlocker\\jobdriver_meditate_patch\\harmony_jobdriver_meditate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3284C898-58C5-18CA-7DB5-60B8C2D0A1FB}|CompSpawnSubplantUnlocker.csproj|solutionrelative:jobdriver_meditate_patch\\harmony_jobdriver_meditate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3284C898-58C5-18CA-7DB5-60B8C2D0A1FB}|CompSpawnSubplantUnlocker.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\compspawnsubplantunlocker\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3284C898-58C5-18CA-7DB5-60B8C2D0A1FB}|CompSpawnSubplantUnlocker.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3284C898-58C5-18CA-7DB5-60B8C2D0A1FB}|CompSpawnSubplantUnlocker.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\compspawnsubplantunlocker\\harmonymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3284C898-58C5-18CA-7DB5-60B8C2D0A1FB}|CompSpawnSubplantUnlocker.csproj|solutionrelative:harmonymain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HarmonyMain.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\HarmonyMain.cs",
+              "RelativeDocumentMoniker": "HarmonyMain.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\HarmonyMain.cs",
+              "RelativeToolTip": "HarmonyMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:40:48.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Harmony_jobDriver_Meditate.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\JobDriver_Meditate_Patch\\Harmony_jobDriver_Meditate.cs",
+              "RelativeDocumentMoniker": "JobDriver_Meditate_Patch\\Harmony_jobDriver_Meditate.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\JobDriver_Meditate_Patch\\Harmony_jobDriver_Meditate.cs",
+              "RelativeToolTip": "JobDriver_Meditate_Patch\\Harmony_jobDriver_Meditate.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:40:26.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\CompSpawnSubplantUnlocker\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T16:40:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

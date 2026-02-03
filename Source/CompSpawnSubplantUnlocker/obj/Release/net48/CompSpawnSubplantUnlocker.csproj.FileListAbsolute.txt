@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\bin\Release\net48\CompSpawnSubplantUnlocker.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\bin\Release\net48\CompSpawnSubplantUnlocker.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\obj\Release\net48\CompSpawnSubplantUnlocker.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\obj\Release\net48\CompSpawnSubplantUnlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\obj\Release\net48\CompSpawnSubplantUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\obj\Release\net48\CompSpawnSubplantUnlocker.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\obj\Release\net48\CompSpawnSubplantUnlocker.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\CompSpawnSubplantUnlocker\obj\Release\net48\CompSpawnSubplantUnlocker.pdb

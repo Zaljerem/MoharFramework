@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\thoughtworker\\thoughtuponhediffonbodypart\\bodypartutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|solutionrelative:thoughtuponhediffonbodypart\\bodypartutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\thoughtworker\\thoughtuponhediffonbodypart\\mtwdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|solutionrelative:thoughtuponhediffonbodypart\\mtwdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\thoughtworker\\thoughtuponhediffonbodypart\\thoughtworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|solutionrelative:thoughtuponhediffonbodypart\\thoughtworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\thoughtworker\\thoughtuponjob\\mtwdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|solutionrelative:thoughtuponjob\\mtwdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\thoughtworker\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\thoughtworker\\moharthoughts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{43806630-2643-5ED8-AE6B-3EB524BADA8F}|MoharThoughts.csproj|solutionrelative:moharthoughts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:10:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MTWDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponJob\\MTWDef.cs",
+              "RelativeDocumentMoniker": "ThoughtUponJob\\MTWDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponJob\\MTWDef.cs",
+              "RelativeToolTip": "ThoughtUponJob\\MTWDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:09:48.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThoughtWorker.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponHediffOnBodyPart\\ThoughtWorker.cs",
+              "RelativeDocumentMoniker": "ThoughtUponHediffOnBodyPart\\ThoughtWorker.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponHediffOnBodyPart\\ThoughtWorker.cs",
+              "RelativeToolTip": "ThoughtUponHediffOnBodyPart\\ThoughtWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:09:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MTWDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponHediffOnBodyPart\\MTWDef.cs",
+              "RelativeDocumentMoniker": "ThoughtUponHediffOnBodyPart\\MTWDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponHediffOnBodyPart\\MTWDef.cs",
+              "RelativeToolTip": "ThoughtUponHediffOnBodyPart\\MTWDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:09:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BodyPartUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponHediffOnBodyPart\\BodyPartUtils.cs",
+              "RelativeDocumentMoniker": "ThoughtUponHediffOnBodyPart\\BodyPartUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\ThoughtUponHediffOnBodyPart\\BodyPartUtils.cs",
+              "RelativeToolTip": "ThoughtUponHediffOnBodyPart\\BodyPartUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:09:18.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoharThoughts",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\MoharThoughts.csproj",
+              "RelativeDocumentMoniker": "MoharThoughts.csproj",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\ThoughtWorker\\MoharThoughts.csproj",
+              "RelativeToolTip": "MoharThoughts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T15:09:11.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

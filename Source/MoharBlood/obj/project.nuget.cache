@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E82+S/G4UP8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharBlood\\MoharBlood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conse\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4633\\krafs.rimworld.ref.1.6.4633.nupkg.sha512",
+    "C:\\Users\\conse\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

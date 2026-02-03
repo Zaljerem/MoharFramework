@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\gravedig_jobparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\gravedig_jobparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\findgrave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\findgrave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\findcorpse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\findcorpse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\finalize_corpseconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\finalize_corpseconsumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\factionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\factionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\corpsespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\corpsespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\corpserecipesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\corpserecipesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\corpseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\corpseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\corpsejobdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\corpsejobdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\aicorpse_jobgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\aicorpse_jobgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\ai_gravedigger_jobgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\ai_gravedigger_jobgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\aicorpse_consume_jobdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\aicorpse_consume_jobdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\moharaijob\\moharaijob\\ai_gravedig_jobdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C980DA00-8FEE-0E64-D95B-B1A5723668A6}|MoharAiJob.csproj|solutionrelative:moharaijob\\ai_gravedig_jobdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CorpseProduct.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseProduct.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\CorpseProduct.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseProduct.cs",
+              "RelativeToolTip": "MoharAiJob\\CorpseProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorpseRecipeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseRecipeSettings.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\CorpseRecipeSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseRecipeSettings.cs",
+              "RelativeToolTip": "MoharAiJob\\CorpseRecipeSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:43.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CorpseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseSpecification.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\CorpseSpecification.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseSpecification.cs",
+              "RelativeToolTip": "MoharAiJob\\CorpseSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:45.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FactionRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\FactionRequirement.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\FactionRequirement.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\FactionRequirement.cs",
+              "RelativeToolTip": "MoharAiJob\\FactionRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:46.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Finalize_CorpseConsumption.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\Finalize_CorpseConsumption.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\Finalize_CorpseConsumption.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\Finalize_CorpseConsumption.cs",
+              "RelativeToolTip": "MoharAiJob\\Finalize_CorpseConsumption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:47.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindCorpse.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\FindCorpse.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\FindCorpse.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\FindCorpse.cs",
+              "RelativeToolTip": "MoharAiJob\\FindCorpse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:49.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindGrave.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\FindGrave.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\FindGrave.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\FindGrave.cs",
+              "RelativeToolTip": "MoharAiJob\\FindGrave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:50.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraveDig_JobParameters.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\GraveDig_JobParameters.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\GraveDig_JobParameters.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\GraveDig_JobParameters.cs",
+              "RelativeToolTip": "MoharAiJob\\GraveDig_JobParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:53.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CorpseJobDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseJobDef.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\CorpseJobDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\CorpseJobDef.cs",
+              "RelativeToolTip": "MoharAiJob\\CorpseJobDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:40.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AiCorpse_JobGiver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\AiCorpse_JobGiver.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\AiCorpse_JobGiver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\AiCorpse_JobGiver.cs",
+              "RelativeToolTip": "MoharAiJob\\AiCorpse_JobGiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:39.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ai_GraveDigger_JobGiver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\Ai_GraveDigger_JobGiver.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\Ai_GraveDigger_JobGiver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\Ai_GraveDigger_JobGiver.cs",
+              "RelativeToolTip": "MoharAiJob\\Ai_GraveDigger_JobGiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:35.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AiCorpse_Consume_JobDriver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\AiCorpse_Consume_JobDriver.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\AiCorpse_Consume_JobDriver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\AiCorpse_Consume_JobDriver.cs",
+              "RelativeToolTip": "MoharAiJob\\AiCorpse_Consume_JobDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:37.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ai_GraveDig_JobDriver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\Ai_GraveDig_JobDriver.cs",
+              "RelativeDocumentMoniker": "MoharAiJob\\Ai_GraveDig_JobDriver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MoharAiJob\\MoharAiJob\\Ai_GraveDig_JobDriver.cs",
+              "RelativeToolTip": "MoharAiJob\\Ai_GraveDig_JobDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:40:32.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

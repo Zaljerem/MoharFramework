@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\bin\Release\net48\MoharDamage.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\bin\Release\net48\MoharDamage.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\obj\Release\net48\MoharDamage.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\obj\Release\net48\MoharDamage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\obj\Release\net48\MoharDamage.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\obj\Release\net48\MoharDamage.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\obj\Release\net48\MoharDamage.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharDamage\obj\Release\net48\MoharDamage.pdb

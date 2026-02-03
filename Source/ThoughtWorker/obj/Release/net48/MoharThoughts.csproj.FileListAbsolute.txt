@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\bin\Release\net48\MoharThoughts.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\bin\Release\net48\MoharThoughts.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\obj\Release\net48\MoharThoughts.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\obj\Release\net48\MoharThoughts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\obj\Release\net48\MoharThoughts.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\obj\Release\net48\MoharThoughts.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\obj\Release\net48\MoharThoughts.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\ThoughtWorker\obj\Release\net48\MoharThoughts.pdb

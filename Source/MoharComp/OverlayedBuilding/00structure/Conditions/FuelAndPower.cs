@@ -1,6 +1,4 @@
-﻿using Verse;
-using System;
-
+﻿
 namespace OLB
 {
     public static class FuelAndPowerConditions

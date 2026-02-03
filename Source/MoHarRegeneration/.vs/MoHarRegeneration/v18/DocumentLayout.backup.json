@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\workbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\workbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\regenwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\regenwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\regenerationpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\regenerationpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\healingdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\healingdispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\additionnalhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\additionnalhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\structure\\treatmentlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\structure\\treatmentlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\structure\\healingwithmaxparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\structure\\healingwithmaxparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\structure\\healingwithhedifflistparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\structure\\healingwithhedifflistparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\structure\\healingparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\structure\\healingparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\hediff\\hediffcompproperties_regeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\hediff\\hediffcompproperties_regeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\regeneration\\hediff\\hediffcomp_regeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:regeneration\\hediff\\hediffcomp_regeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\common\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:common\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\common\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:common\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharregeneration\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27770A35-F995-8DD9-A1F1-D69D087171A3}|MoHarRegeneration.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkBill.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\WorkBill.cs",
+              "RelativeDocumentMoniker": "Regeneration\\WorkBill.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\WorkBill.cs",
+              "RelativeToolTip": "Regeneration\\WorkBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:29:25.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegenWork.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\RegenWork.cs",
+              "RelativeDocumentMoniker": "Regeneration\\RegenWork.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\RegenWork.cs",
+              "RelativeToolTip": "Regeneration\\RegenWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:29:20.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegenerationPriority.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\RegenerationPriority.cs",
+              "RelativeDocumentMoniker": "Regeneration\\RegenerationPriority.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\RegenerationPriority.cs",
+              "RelativeToolTip": "Regeneration\\RegenerationPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:29:10.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDefs.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\MyDefs.cs",
+              "RelativeDocumentMoniker": "Regeneration\\MyDefs.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\MyDefs.cs",
+              "RelativeToolTip": "Regeneration\\MyDefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:29:06.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealingDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\HealingDispatcher.cs",
+              "RelativeDocumentMoniker": "Regeneration\\HealingDispatcher.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\HealingDispatcher.cs",
+              "RelativeToolTip": "Regeneration\\HealingDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:29:02.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdditionnalHediff.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\AdditionnalHediff.cs",
+              "RelativeDocumentMoniker": "Regeneration\\AdditionnalHediff.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\AdditionnalHediff.cs",
+              "RelativeToolTip": "Regeneration\\AdditionnalHediff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TreatmentLimit.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\TreatmentLimit.cs",
+              "RelativeDocumentMoniker": "Regeneration\\Structure\\TreatmentLimit.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\TreatmentLimit.cs",
+              "RelativeToolTip": "Regeneration\\Structure\\TreatmentLimit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:46.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealingWithMaxParams.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\HealingWithMaxParams.cs",
+              "RelativeDocumentMoniker": "Regeneration\\Structure\\HealingWithMaxParams.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\HealingWithMaxParams.cs",
+              "RelativeToolTip": "Regeneration\\Structure\\HealingWithMaxParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:42.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealingWithHediffListParams.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\HealingWithHediffListParams.cs",
+              "RelativeDocumentMoniker": "Regeneration\\Structure\\HealingWithHediffListParams.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\HealingWithHediffListParams.cs",
+              "RelativeToolTip": "Regeneration\\Structure\\HealingWithHediffListParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealingParams.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\HealingParams.cs",
+              "RelativeDocumentMoniker": "Regeneration\\Structure\\HealingParams.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Structure\\HealingParams.cs",
+              "RelativeToolTip": "Regeneration\\Structure\\HealingParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:33.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HediffCompProperties_Regeneration.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Hediff\\HediffCompProperties_Regeneration.cs",
+              "RelativeDocumentMoniker": "Regeneration\\Hediff\\HediffCompProperties_Regeneration.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Hediff\\HediffCompProperties_Regeneration.cs",
+              "RelativeToolTip": "Regeneration\\Hediff\\HediffCompProperties_Regeneration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:28.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HediffComp_Regeneration.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Hediff\\HediffComp_Regeneration.cs",
+              "RelativeDocumentMoniker": "Regeneration\\Hediff\\HediffComp_Regeneration.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Regeneration\\Hediff\\HediffComp_Regeneration.cs",
+              "RelativeToolTip": "Regeneration\\Hediff\\HediffComp_Regeneration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:28:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Common\\Tools.cs",
+              "RelativeDocumentMoniker": "Common\\Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Common\\Tools.cs",
+              "RelativeToolTip": "Common\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:24:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GfxEffects.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Common\\GfxEffects.cs",
+              "RelativeDocumentMoniker": "Common\\GfxEffects.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Common\\GfxEffects.cs",
+              "RelativeToolTip": "Common\\GfxEffects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:23:31.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoHarRegeneration\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:23:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

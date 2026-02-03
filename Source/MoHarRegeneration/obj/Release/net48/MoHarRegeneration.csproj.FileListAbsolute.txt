@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\bin\Release\net48\MoHarRegeneration.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\bin\Release\net48\MoHarRegeneration.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\obj\Release\net48\MoHarRegeneration.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\obj\Release\net48\MoHarRegeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\obj\Release\net48\MoHarRegeneration.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\obj\Release\net48\MoHarRegeneration.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\obj\Release\net48\MoHarRegeneration.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoHarRegeneration\obj\Release\net48\MoHarRegeneration.pdb

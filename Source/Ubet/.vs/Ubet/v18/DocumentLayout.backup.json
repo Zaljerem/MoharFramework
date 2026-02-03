@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\conditioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\conditioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\conditiondictionnary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\conditiondictionnary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\conditiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\conditiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\ubetdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\ubetdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\twostringargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\twostringargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\stringfloatargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\stringfloatargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\stringargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\stringargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\operand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\nodecompute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\nodecompute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\noargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\noargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\modcompatibilitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\modcompatibilitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\intrangeargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\intrangeargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\floatrangeargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\floatrangeargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\damagetaken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\damagetaken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\curveargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\curveargconditionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\ubet\\ubet\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901341-644C-D625-3CAC-4BBD1B8E2F48}|Ubet.csproj|solutionrelative:ubet\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UbetDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\UbetDef.cs",
+              "RelativeDocumentMoniker": "Ubet\\UbetDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\UbetDef.cs",
+              "RelativeToolTip": "Ubet\\UbetDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:52.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwoStringArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\TwoStringArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\TwoStringArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\TwoStringArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\TwoStringArgConditionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Tools.cs",
+              "RelativeDocumentMoniker": "Ubet\\Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Tools.cs",
+              "RelativeToolTip": "Ubet\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:50.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringFloatArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\StringFloatArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\StringFloatArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\StringFloatArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\StringFloatArgConditionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:49.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Operand.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Operand.cs",
+              "RelativeDocumentMoniker": "Ubet\\Operand.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Operand.cs",
+              "RelativeToolTip": "Ubet\\Operand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConditionType.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ConditionType.cs",
+              "RelativeDocumentMoniker": "Ubet\\ConditionType.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ConditionType.cs",
+              "RelativeToolTip": "Ubet\\ConditionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:23.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConditionDictionnary.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ConditionDictionnary.cs",
+              "RelativeDocumentMoniker": "Ubet\\ConditionDictionnary.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ConditionDictionnary.cs",
+              "RelativeToolTip": "Ubet\\ConditionDictionnary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:22.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConditionCheck.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ConditionCheck.cs",
+              "RelativeDocumentMoniker": "Ubet\\ConditionCheck.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ConditionCheck.cs",
+              "RelativeToolTip": "Ubet\\ConditionCheck.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:05:24.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NodeCompute.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\NodeCompute.cs",
+              "RelativeDocumentMoniker": "Ubet\\NodeCompute.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\NodeCompute.cs",
+              "RelativeToolTip": "Ubet\\NodeCompute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:45.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NoArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\NoArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\NoArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\NoArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\NoArgConditionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModCompatibilityCheck.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ModCompatibilityCheck.cs",
+              "RelativeDocumentMoniker": "Ubet\\ModCompatibilityCheck.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\ModCompatibilityCheck.cs",
+              "RelativeToolTip": "Ubet\\ModCompatibilityCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:30.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Leaf.cs",
+              "RelativeDocumentMoniker": "Ubet\\Leaf.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Leaf.cs",
+              "RelativeToolTip": "Ubet\\Leaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IntRangeArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\IntRangeArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\IntRangeArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\IntRangeArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\IntRangeArgConditionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:28.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\StringArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\StringArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\StringArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\StringArgConditionMethods.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAqwKoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:05:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FloatRangeArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\FloatRangeArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\FloatRangeArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\FloatRangeArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\FloatRangeArgConditionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DamageTaken.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\DamageTaken.cs",
+              "RelativeDocumentMoniker": "Ubet\\DamageTaken.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\DamageTaken.cs",
+              "RelativeToolTip": "Ubet\\DamageTaken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CurveArgConditionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\CurveArgConditionMethods.cs",
+              "RelativeDocumentMoniker": "Ubet\\CurveArgConditionMethods.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\CurveArgConditionMethods.cs",
+              "RelativeToolTip": "Ubet\\CurveArgConditionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:24.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Condition.cs",
+              "RelativeDocumentMoniker": "Ubet\\Condition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\Ubet\\Ubet\\Condition.cs",
+              "RelativeToolTip": "Ubet\\Condition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T02:06:17.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

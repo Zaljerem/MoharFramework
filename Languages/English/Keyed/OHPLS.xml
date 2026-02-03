@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <ModName_OHPLS>MoHAR - OHPLS stands for One Hediff Per Life Stage</ModName_OHPLS>
+	<OHPLS_Label>Safe mod removal</OHPLS_Label>
+	<OHPLS_Label1> 1. Check this if you want to remove the mod</OHPLS_Label1>
+	<OHPLS_Label2>\n 2. Load your saved game, wait a few seconds</OHPLS_Label2>
+	<OHPLS_Label3>\n 3. Save, preferably in another slot</OHPLS_Label3>
+	<OHPLS_Label4>\n 4. Quit and remove the mod</OHPLS_Label4>
+	<OHPLS_Label5>\n 5. Load your last save</OHPLS_Label5>
+	
+	<OHPLS_SMR>SafeModRemoval: </OHPLS_SMR>
+	
+	 <ModName_OHPG>MoHAR - OHPG stands for One Hediff Per Gender</ModName_OHPG>
+	 
+</LanguageData>
+

@@ -289,9 +289,9 @@ namespace MoharJoy
         }
 
 
-        protected override void WatchTickAction()
+        protected override void WatchTickAction(int delta)
         {
-            base.WatchTickAction();
+            base.WatchTickAction(delta);
             //Tools.Warn( MyName + " WatchTickAction - Entering WatchTickAction", myDebug);
             if (!HasGameSettings && ParameterInitialization())
                 return;

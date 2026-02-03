@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\bin\Release\net48\FuPoSpa.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\bin\Release\net48\FuPoSpa.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\obj\Release\net48\FuPoSpa.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\obj\Release\net48\FuPoSpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\obj\Release\net48\FuPoSpa.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\obj\Release\net48\FuPoSpa.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\obj\Release\net48\FuPoSpa.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharComp\FueledPoweredSpawner\obj\Release\net48\FuPoSpa.pdb

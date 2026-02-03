@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\yetanotherhediffapplier\\yaha\\harmonypatchall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|solutionrelative:yaha\\harmonypatchall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\yetanotherhediffapplier\\yaha\\compcheckutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|solutionrelative:yaha\\compcheckutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\yetanotherhediffapplier\\yaha\\associatedhediffhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|solutionrelative:yaha\\associatedhediffhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\yetanotherhediffapplier\\yaha\\applyspecifics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33297C74-8BB7-A9F8-FA17-A340DD3F3E4B}|YetAnotherHediffApplier.csproj|solutionrelative:yaha\\applyspecifics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HarmonyPatchAll.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\HarmonyPatchAll.cs",
+              "RelativeDocumentMoniker": "YAHA\\HarmonyPatchAll.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\HarmonyPatchAll.cs",
+              "RelativeToolTip": "YAHA\\HarmonyPatchAll.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:54:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompCheckUtility.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\CompCheckUtility.cs",
+              "RelativeDocumentMoniker": "YAHA\\CompCheckUtility.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\CompCheckUtility.cs",
+              "RelativeToolTip": "YAHA\\CompCheckUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:49:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssociatedHediffHistory.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\AssociatedHediffHistory.cs",
+              "RelativeDocumentMoniker": "YAHA\\AssociatedHediffHistory.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\AssociatedHediffHistory.cs",
+              "RelativeToolTip": "YAHA\\AssociatedHediffHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:49:07.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplySpecifics.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\ApplySpecifics.cs",
+              "RelativeDocumentMoniker": "YAHA\\ApplySpecifics.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\YetAnotherHediffApplier\\YAHA\\ApplySpecifics.cs",
+              "RelativeToolTip": "YAHA\\ApplySpecifics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:49:05.01Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

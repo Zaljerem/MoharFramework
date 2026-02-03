@@ -1,0 +1,1699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\generalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\generalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\rotationoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\rotationoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\spawnrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\spawnrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\trailutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\trailutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\tracerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\tracerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\thingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\thingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\thingrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\thingrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\terrainrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\terrainrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\stacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\stacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\stackcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\stackcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\spawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\spawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\restriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\restriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\requirementutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\requirementutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\requirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\requirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\redresssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\redresssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\randyspawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\randyspawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\randypickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\randypickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\randompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\randompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\randomfactionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\randomfactionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\pawnredressutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\pawnredressutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\pawncopyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\pawncopyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\pawncondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\pawncondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\parametershandlingsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\parametershandlingsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\nomsgrandhediffgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\nomsgrandhediffgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\needcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\needcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\mygfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\mygfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\motespawnutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\motespawnutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\motelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\motelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\motecolorchangeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\motecolorchangeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\mentalstatepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\mentalstatepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\mentalstateoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\mentalstateoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\lightcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\lightcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\keepingconditioncompatibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\keepingconditioncompatibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\itemparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\itemparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\innershinerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\innershinerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\innershinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\innershinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\innershineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\innershineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\innershinedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\innershinedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffseveritycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffseveritycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffremovalconditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffremovalconditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffkeepingcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffkeepingcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffitemtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffitemtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffintersect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffintersect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcomp_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcomp_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffcompproperties_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffcompproperties_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\hediffandbodypart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\hediffandbodypart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\filthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\filthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\factionpickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\factionpickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\factionpickerparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\factionpickerparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\drawingspecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\drawingspecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\copypawnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\copypawnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\conditionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\conditionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\conditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\conditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\commonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\commonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\colorrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\colorrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\channelcolorcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\channelcolorcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\bodytypespecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\bodytypespecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\bodytypeoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\bodytypeoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\bodypartstools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\bodypartstools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\bodypartcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\bodypartcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs\\activityrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs\\activityrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharhediffs\\moharhediffs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E4FC3F02-5F98-927D-072F-E55822C25DFD}|MoharHediffs.csproj|solutionrelative:moharhediffs.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrailUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\TrailUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\TrailUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\TrailUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\TrailUtils.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TracerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\TracerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\TracerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\TracerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\TracerUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:48.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\Tools.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\Tools.cs",
+              "RelativeToolTip": "MoharHediffs\\Tools.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ThingSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ThingSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ThingSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\ThingSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThingRequirementSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ThingRequirementSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ThingRequirementSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ThingRequirementSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\ThingRequirementSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnRules.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\SpawnRules.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\SpawnRules.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\SpawnRules.cs",
+              "RelativeToolTip": "MoharHediffs\\SpawnRules.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RotationOffset.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RotationOffset.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RotationOffset.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RotationOffset.cs",
+              "RelativeToolTip": "MoharHediffs\\RotationOffset.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:42.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\GeneralSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\GeneralSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\GeneralSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\GeneralSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Footprint.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\Footprint.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\Footprint.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\Footprint.cs",
+              "RelativeToolTip": "MoharHediffs\\Footprint.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TerrainRestriction.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\TerrainRestriction.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\TerrainRestriction.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\TerrainRestriction.cs",
+              "RelativeToolTip": "MoharHediffs\\TerrainRestriction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StackSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\StackSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\StackSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\StackSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\StackSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:45.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StackCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\StackCalculator.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\StackCalculator.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\StackCalculator.cs",
+              "RelativeToolTip": "MoharHediffs\\StackCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:45.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpawnerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\SpawnerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\SpawnerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\SpawnerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\SpawnerUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:43.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Restriction.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\Restriction.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\Restriction.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\Restriction.cs",
+              "RelativeToolTip": "MoharHediffs\\Restriction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:42.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RequirementUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RequirementUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RequirementUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RequirementUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\RequirementUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:41.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RequirementSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RequirementSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RequirementSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RequirementSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\RequirementSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RedressSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RedressSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RedressSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RedressSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\RedressSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RandySpawnerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandySpawnerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandySpawnerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandySpawnerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\RandySpawnerUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:39.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RandyPickerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandyPickerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandyPickerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandyPickerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\RandyPickerUtils.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:38.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RandomPicker.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandomPicker.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandomPicker.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandomPicker.cs",
+              "RelativeToolTip": "MoharHediffs\\RandomPicker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:38.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RandomFactionParameter.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandomFactionParameter.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandomFactionParameter.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\RandomFactionParameter.cs",
+              "RelativeToolTip": "MoharHediffs\\RandomFactionParameter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:37.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PawnRedressUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\PawnRedressUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\PawnRedressUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\PawnRedressUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\PawnRedressUtils.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:36.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PawnCopyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\PawnCopyUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\PawnCopyUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\PawnCopyUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\PawnCopyUtils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:35.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PawnCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\PawnCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\PawnCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\PawnCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\PawnCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:35.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ParametersHandlingsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ParametersHandlingsUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ParametersHandlingsUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ParametersHandlingsUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\ParametersHandlingsUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:34.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NoMsgRandHediffGiver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "RelativeToolTip": "MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:33.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NeedCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\NeedCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\NeedCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\NeedCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\NeedCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyGfx.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MyGfx.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MyGfx.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MyGfx.cs",
+              "RelativeToolTip": "MoharHediffs\\MyGfx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:32.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyDefs.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MyDefs.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MyDefs.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MyDefs.cs",
+              "RelativeToolTip": "MoharHediffs\\MyDefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:32.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MoteSpawnUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MoteSpawnUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MoteSpawnUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MoteSpawnUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\MoteSpawnUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MoteLink.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MoteLink.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MoteLink.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MoteLink.cs",
+              "RelativeToolTip": "MoharHediffs\\MoteLink.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:30.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoteColorChangeUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MoteColorChangeUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MoteColorChangeUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MoteColorChangeUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\MoteColorChangeUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:30.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MentalStatePicker.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MentalStatePicker.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MentalStatePicker.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MentalStatePicker.cs",
+              "RelativeToolTip": "MoharHediffs\\MentalStatePicker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:29.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MentalStateOption.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MentalStateOption.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MentalStateOption.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\MentalStateOption.cs",
+              "RelativeToolTip": "MoharHediffs\\MentalStateOption.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:28.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LightCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\LightCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\LightCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\LightCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\LightCondition.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:28.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KeepingConditionCompatibility.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\KeepingConditionCompatibility.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\KeepingConditionCompatibility.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\KeepingConditionCompatibility.cs",
+              "RelativeToolTip": "MoharHediffs\\KeepingConditionCompatibility.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ItemParameter.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ItemParameter.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ItemParameter.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ItemParameter.cs",
+              "RelativeToolTip": "MoharHediffs\\ItemParameter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:26.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InnerShinerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShinerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShinerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShinerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShinerUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:25.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InnerShineRecord.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShineRecord.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShineRecord.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShineRecord.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShineRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:25.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InnerShineItem.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShineItem.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShineItem.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShineItem.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShineItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InnerShineDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShineDef.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShineDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\InnerShineDef.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShineDef.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HediffSeverityCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffSeverityCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffSeverityCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffSeverityCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffSeverityCondition.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HediffRequirementSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffRequirementSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffRequirementSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffRequirementSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffRequirementSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:22.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HediffRemovalConditionBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:21.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HediffKeepingCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffKeepingCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffKeepingCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffKeepingCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffKeepingCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:20.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HediffItemToRemove.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffItemToRemove.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffItemToRemove.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffItemToRemove.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffItemToRemove.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:20.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HediffItem.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffItem.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffItem.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffItem.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:19.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HediffIntersect.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffIntersect.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffIntersect.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffIntersect.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffIntersect.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:18.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HediffCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:17.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HediffComp_TrailLeaver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:16.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HediffComp_Steamer.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_Steamer.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_Steamer.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_Steamer.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_Steamer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:15.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HediffComp_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_Spawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_Spawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_Spawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_Spawner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HediffComp_RandySpawnUponDeath.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:13.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HediffComp_RandySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_RandySpawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_RandySpawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_RandySpawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_RandySpawner.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HediffComp_RainbowTrail.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:12.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:11.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HediffComp_OnTheCarpet.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:10.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HediffComp_MultipleHediff.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HediffComp_InnerShine.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_InnerShine.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_InnerShine.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_InnerShine.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_InnerShine.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:08.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HediffComp_HediffRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_HediffRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_HediffRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_HediffRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_HediffRandom.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "HediffComp_HediffNullifier.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:07.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HeDiffComp_HediffExclusive.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "RelativeToolTip": "MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HediffComp_Filther.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_Filther.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_Filther.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_Filther.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_Filther.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:06.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HediffComp_AnotherRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HediffCompProperties_TrailLeaver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HediffCompProperties_Steamer.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:04.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HediffCompProperties_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HediffCompProperties_RandySpawnUponDeath.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HediffCompProperties_RandySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:02.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HediffCompProperties_RainbowTrail.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:02.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:01.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HediffCompProperties_OnTheCarpet.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:01.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HediffCompProperties_MultipleHediff.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:00.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HediffCompProperties_InnerShine.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:43:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HediffCompProperties_HediffRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HediffCompProperties_HediffNullifier.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:58.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HeDiffCompProperties_HediffExclusive.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "RelativeToolTip": "MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:58.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HediffCompProperties_Filther.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_Filther.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_Filther.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_Filther.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_Filther.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "HediffCompProperties_AnotherRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:57.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "HediffAndBodyPart.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffAndBodyPart.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffAndBodyPart.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\HediffAndBodyPart.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffAndBodyPart.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:56.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GfxEffects.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\GfxEffects.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\GfxEffects.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\GfxEffects.cs",
+              "RelativeToolTip": "MoharHediffs\\GfxEffects.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:55.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FilthSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\FilthSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\FilthSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\FilthSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\FilthSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:54.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FactionPickerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\FactionPickerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\FactionPickerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\FactionPickerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\FactionPickerUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:54.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "FactionPickerParameters.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\FactionPickerParameters.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\FactionPickerParameters.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\FactionPickerParameters.cs",
+              "RelativeToolTip": "MoharHediffs\\FactionPickerParameters.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:53.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DrawingSpecificities.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\DrawingSpecificities.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\DrawingSpecificities.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\DrawingSpecificities.cs",
+              "RelativeToolTip": "MoharHediffs\\DrawingSpecificities.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CopyPawnSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\CopyPawnSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\CopyPawnSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\CopyPawnSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\CopyPawnSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ConditionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ConditionValidation.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ConditionValidation.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ConditionValidation.cs",
+              "RelativeToolTip": "MoharHediffs\\ConditionValidation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:52.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ConditionBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ConditionBuilder.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ConditionBuilder.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ConditionBuilder.cs",
+              "RelativeToolTip": "MoharHediffs\\ConditionBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:52.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CommonSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\CommonSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\CommonSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\CommonSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\CommonSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:51.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ColorRange.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ColorRange.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ColorRange.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ColorRange.cs",
+              "RelativeToolTip": "MoharHediffs\\ColorRange.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:51.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ChannelColorCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ChannelColorCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ChannelColorCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ChannelColorCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\ChannelColorCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "BodyTypeSpecificities.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyTypeSpecificities.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyTypeSpecificities.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyTypeSpecificities.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyTypeSpecificities.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:50.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BodyTypeOffset.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyTypeOffset.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyTypeOffset.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyTypeOffset.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyTypeOffset.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "BodyPartsTools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyPartsTools.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyPartsTools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyPartsTools.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyPartsTools.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:49.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BodyPartCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyPartCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyPartCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\BodyPartCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyPartCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:48.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:46.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ActivityRestriction.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ActivityRestriction.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ActivityRestriction.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs\\ActivityRestriction.cs",
+              "RelativeToolTip": "MoharHediffs\\ActivityRestriction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:42:30.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "MoharHediffs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs.csproj",
+              "RelativeDocumentMoniker": "MoharHediffs.csproj",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharHediffs\\MoharHediffs.csproj",
+              "RelativeToolTip": "MoharHediffs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T14:42:27.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

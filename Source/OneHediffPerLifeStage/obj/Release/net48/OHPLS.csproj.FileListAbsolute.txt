@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\obj\Release\net48\OHPLS.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\obj\Release\net48\OHPLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\obj\Release\net48\OHPLS.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\obj\Release\net48\OHPLS.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\bin\Release\net48\OHPLS.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\bin\Release\net48\OHPLS.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\obj\Release\net48\OHPLS.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OneHediffPerLifeStage\obj\Release\net48\OHPLS.pdb

@@ -1,7 +1,5 @@
 using Verse.Sound;
-using System.Collections.Generic;
 using Verse;
-using RimWorld;
 
 // ConPoDra stands for Conditionnal PostDraw
 

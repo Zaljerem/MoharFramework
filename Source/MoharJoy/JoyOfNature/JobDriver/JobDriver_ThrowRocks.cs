@@ -256,13 +256,13 @@ namespace MoharJoy
                 thrownRockNum++;
         }
 
-        public void TickAction()
+        public void TickAction() //needs to implement VTR delta
         {
             float extraJoyGainFactor = 1 - pawn.Map.weatherManager.RainRate;
-            JoyUtility.JoyTickCheckEnd(pawn, JoyTickFullJoyAction.EndJob, extraJoyGainFactor);
+            JoyUtility.JoyTickCheckEnd(pawn, 1, JoyTickFullJoyAction.EndJob, extraJoyGainFactor);
 
             pawn.rotationTracker.FaceCell(TargetA.Cell);
-            pawn.GainComfortFromCellIfPossible();
+            pawn.GainComfortFromCellIfPossible(1);
 
             //Tools.Warn( MyName + " WatchTickAction - Entering WatchTickAction", myDebug);
             TryThrowProjectile();
@@ -284,7 +284,7 @@ namespace MoharJoy
                 tickAction = delegate
                 {
                     float extraJoyGainFactor = thrownRockNum * .2f;
-                    JoyUtility.JoyTickCheckEnd(pawn, JoyTickFullJoyAction.EndJob, extraJoyGainFactor);
+                    JoyUtility.JoyTickCheckEnd(pawn, 1, JoyTickFullJoyAction.EndJob, extraJoyGainFactor);
                    
                     TickAction();
                 },

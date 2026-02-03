@@ -1,0 +1,1602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\motespawnutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\motespawnutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\randyspawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\randyspawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\factionpickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\factionpickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\trailutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\trailutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\tracerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\tracerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\thingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\thingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\thingrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\thingrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\terrainrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\terrainrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\stacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\stacksettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\stackcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\stackcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\spawnrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\spawnrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\spawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\spawnerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\rotationoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\rotationoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\restriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\restriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\requirementutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\requirementutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\requirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\requirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\redresssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\redresssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\randypickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\randypickerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\randompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\randompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\randomfactionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\randomfactionparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\pawnredressutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\pawnredressutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\pawncopyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\pawncopyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\pawncondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\pawncondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\parametershandlingsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\parametershandlingsutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\nomsgrandhediffgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\nomsgrandhediffgiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\needcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\needcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\mygfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\mygfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\motelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\motelink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\motecolorchangeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\motecolorchangeutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\mentalstatepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\mentalstatepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\mentalstateoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\mentalstateoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\lightcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\lightcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\keepingconditioncompatibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\keepingconditioncompatibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\itemparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\itemparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\innershinerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\innershinerutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\innershinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\innershinerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\innershineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\innershineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\innershinedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\innershinedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffseveritycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffseveritycondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffrequirementsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffremovalconditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffremovalconditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffkeepingcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffkeepingcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffitemtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffitemtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffintersect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffintersect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcomp_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcomp_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_trailleaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_steamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_randyspawnupondeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_randyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_rainbowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_postremovetrigger_hediffadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_onthecarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_multiplehediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_innershine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_hediffrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_hediffnullifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_hediffexclusive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_filther.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffcompproperties_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffcompproperties_anotherrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\hediffandbodypart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\hediffandbodypart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\gfxeffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\generalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\generalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\filthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\filthsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\factionpickerparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\factionpickerparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\drawingspecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\drawingspecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\copypawnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\copypawnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\conditionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\conditionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\conditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\conditionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\commonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\commonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\colorrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\colorrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\channelcolorcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\channelcolorcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\bodytypespecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\bodytypespecificities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\bodytypeoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\bodytypeoffset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\bodypartstools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\bodypartstools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\bodypartcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\bodypartcondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\moharhediffs\\activityrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:moharhediffs\\activityrestriction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|c:\\users\\conse\\desktop\\rim flood (continued)\\1.6\\source\\mhfixed\\mhfixed.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{68BB15F1-F57D-D5B7-39B8-63B29D30E6FF}|MHFixed.csproj|solutionrelative:mhfixed.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrailUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\TrailUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\TrailUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\TrailUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\TrailUtils.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:47:01.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TracerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\TracerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\TracerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\TracerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\TracerUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:47:01.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\Tools.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\Tools.cs",
+              "RelativeToolTip": "MoharHediffs\\Tools.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:47:00.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ThingSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ThingSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ThingSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\ThingSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:59.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactionPickerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\FactionPickerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\FactionPickerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\FactionPickerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\FactionPickerUtils.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAArwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:26.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandySpawnerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandySpawnerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandySpawnerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandySpawnerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\RandySpawnerUtils.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAArwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:51.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoteSpawnUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MoteSpawnUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MoteSpawnUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MoteSpawnUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\MoteSpawnUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:45.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HediffComp_RandySpawnUponDeath.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_RandySpawnUponDeath.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAUwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:46.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThingRequirementSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ThingRequirementSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ThingRequirementSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ThingRequirementSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\ThingRequirementSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:59.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TerrainRestriction.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\TerrainRestriction.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\TerrainRestriction.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\TerrainRestriction.cs",
+              "RelativeToolTip": "MoharHediffs\\TerrainRestriction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:58.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StackSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\StackSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\StackSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\StackSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\StackSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:58.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StackCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\StackCalculator.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\StackCalculator.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\StackCalculator.cs",
+              "RelativeToolTip": "MoharHediffs\\StackCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpawnRules.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\SpawnRules.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\SpawnRules.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\SpawnRules.cs",
+              "RelativeToolTip": "MoharHediffs\\SpawnRules.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:57.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpawnerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\SpawnerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\SpawnerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\SpawnerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\SpawnerUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RotationOffset.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RotationOffset.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RotationOffset.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RotationOffset.cs",
+              "RelativeToolTip": "MoharHediffs\\RotationOffset.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:55.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Restriction.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\Restriction.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\Restriction.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\Restriction.cs",
+              "RelativeToolTip": "MoharHediffs\\Restriction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:55.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RequirementUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RequirementUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RequirementUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RequirementUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\RequirementUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:54.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequirementSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RequirementSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RequirementSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RequirementSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\RequirementSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RedressSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RedressSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RedressSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RedressSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\RedressSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:51.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RandyPickerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandyPickerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandyPickerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandyPickerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\RandyPickerUtils.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:50.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RandomPicker.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandomPicker.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandomPicker.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandomPicker.cs",
+              "RelativeToolTip": "MoharHediffs\\RandomPicker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:50.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RandomFactionParameter.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandomFactionParameter.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\RandomFactionParameter.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\RandomFactionParameter.cs",
+              "RelativeToolTip": "MoharHediffs\\RandomFactionParameter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:50.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PawnRedressUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\PawnRedressUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\PawnRedressUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\PawnRedressUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\PawnRedressUtils.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:49.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PawnCopyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\PawnCopyUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\PawnCopyUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\PawnCopyUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\PawnCopyUtils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:49.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PawnCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\PawnCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\PawnCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\PawnCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\PawnCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:48.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ParametersHandlingsUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ParametersHandlingsUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ParametersHandlingsUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ParametersHandlingsUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\ParametersHandlingsUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:48.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NoMsgRandHediffGiver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "RelativeToolTip": "MoharHediffs\\NoMsgRandHediffGiver.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:47.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NeedCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\NeedCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\NeedCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\NeedCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\NeedCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:47.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyGfx.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MyGfx.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MyGfx.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MyGfx.cs",
+              "RelativeToolTip": "MoharHediffs\\MyGfx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:46.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyDefs.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MyDefs.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MyDefs.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MyDefs.cs",
+              "RelativeToolTip": "MoharHediffs\\MyDefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MoteLink.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MoteLink.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MoteLink.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MoteLink.cs",
+              "RelativeToolTip": "MoharHediffs\\MoteLink.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:31.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MoteColorChangeUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MoteColorChangeUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MoteColorChangeUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MoteColorChangeUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\MoteColorChangeUtils.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:30.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MentalStatePicker.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MentalStatePicker.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MentalStatePicker.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MentalStatePicker.cs",
+              "RelativeToolTip": "MoharHediffs\\MentalStatePicker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:30.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MentalStateOption.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MentalStateOption.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\MentalStateOption.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\MentalStateOption.cs",
+              "RelativeToolTip": "MoharHediffs\\MentalStateOption.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:28.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LightCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\LightCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\LightCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\LightCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\LightCondition.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:28.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KeepingConditionCompatibility.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\KeepingConditionCompatibility.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\KeepingConditionCompatibility.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\KeepingConditionCompatibility.cs",
+              "RelativeToolTip": "MoharHediffs\\KeepingConditionCompatibility.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:27.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ItemParameter.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ItemParameter.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ItemParameter.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ItemParameter.cs",
+              "RelativeToolTip": "MoharHediffs\\ItemParameter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:27.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InnerShinerUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShinerUtils.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShinerUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShinerUtils.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShinerUtils.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:26.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InnerShineRecord.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShineRecord.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShineRecord.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShineRecord.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShineRecord.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:25.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InnerShineItem.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShineItem.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShineItem.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShineItem.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShineItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:25.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InnerShineDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShineDef.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\InnerShineDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\InnerShineDef.cs",
+              "RelativeToolTip": "MoharHediffs\\InnerShineDef.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:46:24.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HediffSeverityCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffSeverityCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffSeverityCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffSeverityCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffSeverityCondition.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:52.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HediffRequirementSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffRequirementSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffRequirementSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffRequirementSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffRequirementSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:52.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HediffRemovalConditionBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffRemovalConditionBuilder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HediffKeepingCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffKeepingCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffKeepingCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffKeepingCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffKeepingCondition.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:50.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HediffItemToRemove.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffItemToRemove.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffItemToRemove.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffItemToRemove.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffItemToRemove.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:50.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HediffItem.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffItem.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffItem.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffItem.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:49.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HediffIntersect.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffIntersect.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffIntersect.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffIntersect.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffIntersect.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:49.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HediffCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:48.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HediffComp_TrailLeaver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_TrailLeaver.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "HediffComp_Steamer.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_Steamer.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_Steamer.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_Steamer.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_Steamer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:47.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HediffComp_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_Spawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_Spawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_Spawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_Spawner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "HediffComp_RandySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_RandySpawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_RandySpawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_RandySpawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_RandySpawner.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:45.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HediffComp_RainbowTrail.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_RainbowTrail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_PostRemoveTrigger_HediffAdd.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HediffComp_OnTheCarpet.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_OnTheCarpet.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:43.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "HediffComp_MultipleHediff.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_MultipleHediff.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:42.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HediffComp_InnerShine.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_InnerShine.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_InnerShine.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_InnerShine.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_InnerShine.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:42.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HediffComp_HediffRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_HediffRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_HediffRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_HediffRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_HediffRandom.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HediffComp_HediffNullifier.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_HediffNullifier.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "HeDiffComp_HediffExclusive.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "RelativeToolTip": "MoharHediffs\\HeDiffComp_HediffExclusive.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:39.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "HediffComp_Filther.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_Filther.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_Filther.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_Filther.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_Filther.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:38.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HediffComp_AnotherRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffComp_AnotherRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HediffCompProperties_TrailLeaver.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_TrailLeaver.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:37.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HediffCompProperties_Steamer.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_Steamer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:37.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HediffCompProperties_Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_Spawner.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:36.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HediffCompProperties_RandySpawnUponDeath.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_RandySpawnUponDeath.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:35.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HediffCompProperties_RandySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_RandySpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:35.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HediffCompProperties_RainbowTrail.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_RainbowTrail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_PostRemoveTrigger_HediffAdd.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:34.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HediffCompProperties_OnTheCarpet.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_OnTheCarpet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:33.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "HediffCompProperties_MultipleHediff.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_MultipleHediff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:33.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HediffCompProperties_InnerShine.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_InnerShine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:32.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "HediffCompProperties_HediffRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_HediffRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:32.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HediffCompProperties_HediffNullifier.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_HediffNullifier.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:31.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "HeDiffCompProperties_HediffExclusive.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "RelativeToolTip": "MoharHediffs\\HeDiffCompProperties_HediffExclusive.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:31.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HediffCompProperties_Filther.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_Filther.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_Filther.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_Filther.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_Filther.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "HediffCompProperties_AnotherRandom.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffCompProperties_AnotherRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "HediffAndBodyPart.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffAndBodyPart.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\HediffAndBodyPart.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\HediffAndBodyPart.cs",
+              "RelativeToolTip": "MoharHediffs\\HediffAndBodyPart.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:29.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "GfxEffects.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\GfxEffects.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\GfxEffects.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\GfxEffects.cs",
+              "RelativeToolTip": "MoharHediffs\\GfxEffects.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:28.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GeneralSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\GeneralSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\GeneralSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\GeneralSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\GeneralSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:28.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Footprint.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\Footprint.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\Footprint.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\Footprint.cs",
+              "RelativeToolTip": "MoharHediffs\\Footprint.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:27.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "FilthSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\FilthSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\FilthSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\FilthSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\FilthSettings.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "FactionPickerParameters.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\FactionPickerParameters.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\FactionPickerParameters.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\FactionPickerParameters.cs",
+              "RelativeToolTip": "MoharHediffs\\FactionPickerParameters.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "DrawingSpecificities.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\DrawingSpecificities.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\DrawingSpecificities.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\DrawingSpecificities.cs",
+              "RelativeToolTip": "MoharHediffs\\DrawingSpecificities.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:25.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CopyPawnSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\CopyPawnSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\CopyPawnSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\CopyPawnSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\CopyPawnSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:24.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:45:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ConditionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ConditionValidation.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ConditionValidation.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ConditionValidation.cs",
+              "RelativeToolTip": "MoharHediffs\\ConditionValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ConditionBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ConditionBuilder.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ConditionBuilder.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ConditionBuilder.cs",
+              "RelativeToolTip": "MoharHediffs\\ConditionBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:52.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CommonSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\CommonSettings.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\CommonSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\CommonSettings.cs",
+              "RelativeToolTip": "MoharHediffs\\CommonSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:46.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ColorRange.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ColorRange.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ColorRange.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ColorRange.cs",
+              "RelativeToolTip": "MoharHediffs\\ColorRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:41.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ChannelColorCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ChannelColorCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ChannelColorCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ChannelColorCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\ChannelColorCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:37.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BodyTypeSpecificities.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyTypeSpecificities.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyTypeSpecificities.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyTypeSpecificities.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyTypeSpecificities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:33.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "BodyTypeOffset.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyTypeOffset.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyTypeOffset.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyTypeOffset.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyTypeOffset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BodyPartsTools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyPartsTools.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyPartsTools.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyPartsTools.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyPartsTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:25.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "BodyPartCondition.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyPartCondition.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\BodyPartCondition.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\BodyPartCondition.cs",
+              "RelativeToolTip": "MoharHediffs\\BodyPartCondition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:22.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ActivityRestriction.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ActivityRestriction.cs",
+              "RelativeDocumentMoniker": "MoharHediffs\\ActivityRestriction.cs",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MoharHediffs\\ActivityRestriction.cs",
+              "RelativeToolTip": "MoharHediffs\\ActivityRestriction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:44:11.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "MHFixed",
+              "DocumentMoniker": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MHFixed.csproj",
+              "RelativeDocumentMoniker": "MHFixed.csproj",
+              "ToolTip": "C:\\Users\\conse\\Desktop\\Rim Flood (Continued)\\1.6\\Source\\MHFixed\\MHFixed.csproj",
+              "RelativeToolTip": "MHFixed.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T13:43:54.015Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

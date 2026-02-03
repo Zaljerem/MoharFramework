@@ -1,11 +1,4 @@
-﻿using RimWorld;
-
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-
+﻿using System;
 using AlienRace;
 using UnityEngine;
 using Verse;
@@ -20,7 +13,9 @@ namespace MoHarRegeneration
         public static Color ClosestColor(Pawn pawn, bool complementary = false, bool myDebug = false)
         {
 
-            AlienPartGenerator.AlienComp alienComp = Tools.GetAlien(pawn);
+            AlienPartGenerator.AlienComp alienComp = pawn?.TryGetComp<AlienPartGenerator.AlienComp>();
+
+            //AlienPartGenerator.AlienComp alienComp = Tools.GetAlien(pawn);
 
             Color pColor;
             

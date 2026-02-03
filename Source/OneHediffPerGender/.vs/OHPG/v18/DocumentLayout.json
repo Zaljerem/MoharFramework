@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\toolspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:toolspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:mydefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\modsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:modsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\association.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:association.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\hediffgivercustomrace\\customrace_hediffgiver_ohpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:hediffgivercustomrace\\customrace_hediffgiver_ohpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\comp\\hediffcompproperties_genderhediffassociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:comp\\hediffcompproperties_genderhediffassociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\comp\\hediffcomp_genderhediffassociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:comp\\hediffcomp_genderhediffassociation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\onehediffpergender\\ohpg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{883AC971-66BA-972C-CF3C-1027BDFDF042}|OHPG.csproj|solutionrelative:ohpg.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToolsPawn.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\ToolsPawn.cs",
+              "RelativeDocumentMoniker": "ToolsPawn.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\ToolsPawn.cs",
+              "RelativeToolTip": "ToolsPawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:22:38.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:22:35.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDefs.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\MyDefs.cs",
+              "RelativeDocumentMoniker": "MyDefs.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\MyDefs.cs",
+              "RelativeToolTip": "MyDefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:22:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModSettings.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\ModSettings.cs",
+              "RelativeDocumentMoniker": "ModSettings.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\ModSettings.cs",
+              "RelativeToolTip": "ModSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:20:32.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Association.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Association.cs",
+              "RelativeDocumentMoniker": "Association.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Association.cs",
+              "RelativeToolTip": "Association.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:20:30.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomRace_HediffGiver_OHPG.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\HediffGiverCustomRace\\CustomRace_HediffGiver_OHPG.cs",
+              "RelativeDocumentMoniker": "HediffGiverCustomRace\\CustomRace_HediffGiver_OHPG.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\HediffGiverCustomRace\\CustomRace_HediffGiver_OHPG.cs",
+              "RelativeToolTip": "HediffGiverCustomRace\\CustomRace_HediffGiver_OHPG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:20:23.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HediffCompProperties_GenderHediffAssociation.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Comp\\HediffCompProperties_GenderHediffAssociation.cs",
+              "RelativeDocumentMoniker": "Comp\\HediffCompProperties_GenderHediffAssociation.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Comp\\HediffCompProperties_GenderHediffAssociation.cs",
+              "RelativeToolTip": "Comp\\HediffCompProperties_GenderHediffAssociation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:20:20.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HediffComp_GenderHediffAssociation.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Comp\\HediffComp_GenderHediffAssociation.cs",
+              "RelativeDocumentMoniker": "Comp\\HediffComp_GenderHediffAssociation.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Comp\\HediffComp_GenderHediffAssociation.cs",
+              "RelativeToolTip": "Comp\\HediffComp_GenderHediffAssociation.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:20:03.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:19:57.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OHPG",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\OHPG.csproj",
+              "RelativeDocumentMoniker": "OHPG.csproj",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\OneHediffPerGender\\OHPG.csproj",
+              "RelativeToolTip": "OHPG.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T15:19:55.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

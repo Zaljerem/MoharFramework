@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\bin\Release\net48\OrphanHatcherFactionPicker.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\bin\Release\net48\OrphanHatcherFactionPicker.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\obj\Release\net48\OrphanHatcherFactionPicker.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\obj\Release\net48\OrphanHatcherFactionPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\obj\Release\net48\OrphanHatcherFactionPicker.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\obj\Release\net48\OrphanHatcherFactionPicker.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\obj\Release\net48\OrphanHatcherFactionPicker.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\OrphanHatcherFactionPicker\obj\Release\net48\OrphanHatcherFactionPicker.pdb

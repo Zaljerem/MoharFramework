@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\bin\Release\net48\MoharJoy.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\bin\Release\net48\MoharJoy.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\obj\Release\net48\MoharJoy.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\obj\Release\net48\MoharJoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\obj\Release\net48\MoharJoy.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\obj\Release\net48\MoharJoy.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\obj\Release\net48\MoharJoy.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\MoharJoy\obj\Release\net48\MoharJoy.pdb

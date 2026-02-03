@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>MoHAR framework</name>
-	<author>Gouda quiche</author>
-	<url>https://github.com/goudaQuiche</url>
-	
-	<supportedVersions>
-		<li>1.2</li>
-		<li>1.3</li>
-		<li>1.4</li>
-		<li>1.5</li>
+	<name>MoHAR Framework (Continued)</name>
+	<author>Zaljerem</author>
+	<supportedVersions>		
+		<li>1.6</li>
 	</supportedVersions>
-	
-	<packageId>goudaquiche.MoharFramework</packageId>
-
-	<!-- <modIconPath>Eccentric/ModIcon</modIconPath> -->
-
+	<modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+	<packageId>zal.moharframework</packageId>
 	<modDependencies>
 		<li>
 			<packageId>erdelf.HumanoidAlienRaces</packageId>
-			<displayName>Humanoid Alien Races 2.0</displayName>
+			<displayName>Humanoid Alien Races</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=839005762</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-
 	<loadAfter>
       <li>erdelf.HumanoidAlienRaces</li>
     </loadAfter>
+	<description>
+Original mod by Gouda quiche
+https://steamcommunity.com/workshop/filedetails/?id=2057001924
+https://github.com/goudaQuiche
+If the original author requests it, I will remove this update.
 
-	<description>Adds hediffs and other components for mod creators.</description>
+--
 
+This was already forked - but copying the assemblies from 1.5 into a 1.6 folder and thinking that's enough, simply isn't going to cut it.
 
+Now recompiled against 1.6.
+
+--
+
+Original mod notes (1.5):
+
+Adds hediffs and other components for mod creators.</description>
 </ModMetaData>

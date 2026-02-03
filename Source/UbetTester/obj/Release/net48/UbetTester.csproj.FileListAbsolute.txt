@@ -1,0 +1,8 @@
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\obj\Release\net48\UbetTester.csproj.AssemblyReference.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\obj\Release\net48\UbetTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\obj\Release\net48\UbetTester.csproj.CoreCompileInputs.cache
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\obj\Release\net48\UbetTester.sourcelink.json
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\bin\Release\net48\UbetTester.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\bin\Release\net48\UbetTester.pdb
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\obj\Release\net48\UbetTester.dll
+C:\Users\conse\Documents\GitHub\MoharFramework\Source\UbetTester\obj\Release\net48\UbetTester.pdb

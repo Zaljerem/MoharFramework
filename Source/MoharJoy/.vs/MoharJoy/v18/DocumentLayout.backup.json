@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\shadowmote\\shadowmoteutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:shadowmote\\shadowmoteutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\shadowmote\\shadowmotedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:shadowmote\\shadowmotedef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\playgenerictargetinggame\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:playgenerictargetinggame\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\playgenerictargetinggame\\motethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:playgenerictargetinggame\\motethrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\playgenerictargetinggame\\jobdriver_playgenerictargetinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:playgenerictargetinggame\\jobdriver_playgenerictargetinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\playgenerictargetinggame\\thoughts\\togetherthoughtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:playgenerictargetinggame\\thoughts\\togetherthoughtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\playgenerictargetinggame\\parameters\\thoughts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:playgenerictargetinggame\\parameters\\thoughts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\playgenerictargetinggame\\parameters\\projectileoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:playgenerictargetinggame\\parameters\\projectileoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\joyofnature\\joygiver\\joyofnature_joygiverdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:joyofnature\\joygiver\\joyofnature_joygiverdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\joyofnature\\jobdriver\\jobdriver_throwrocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:joyofnature\\jobdriver\\jobdriver_throwrocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|c:\\users\\conse\\documents\\github\\moharframework\\source\\moharjoy\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1326C0F-C42E-1862-632B-3486A5BC2FDB}|MoharJoy.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\Tools.cs",
+              "RelativeDocumentMoniker": "Tools.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\Tools.cs",
+              "RelativeToolTip": "Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:32:38.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShadowMoteUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\ShadowMote\\ShadowMoteUtils.cs",
+              "RelativeDocumentMoniker": "ShadowMote\\ShadowMoteUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\ShadowMote\\ShadowMoteUtils.cs",
+              "RelativeToolTip": "ShadowMote\\ShadowMoteUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:32:31.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShadowMoteDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\ShadowMote\\ShadowMoteDef.cs",
+              "RelativeDocumentMoniker": "ShadowMote\\ShadowMoteDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\ShadowMote\\ShadowMoteDef.cs",
+              "RelativeToolTip": "ShadowMote\\ShadowMoteDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:32:27.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\Utils.cs",
+              "RelativeDocumentMoniker": "PlayGenericTargetingGame\\Utils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\Utils.cs",
+              "RelativeToolTip": "PlayGenericTargetingGame\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:32:19.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoteThrower.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\MoteThrower.cs",
+              "RelativeDocumentMoniker": "PlayGenericTargetingGame\\MoteThrower.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\MoteThrower.cs",
+              "RelativeToolTip": "PlayGenericTargetingGame\\MoteThrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:32:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobDriver_PlayGenericTargetingGame.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\JobDriver_PlayGenericTargetingGame.cs",
+              "RelativeDocumentMoniker": "PlayGenericTargetingGame\\JobDriver_PlayGenericTargetingGame.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\JobDriver_PlayGenericTargetingGame.cs",
+              "RelativeToolTip": "PlayGenericTargetingGame\\JobDriver_PlayGenericTargetingGame.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAAACEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:31:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TogetherThoughtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\Thoughts\\TogetherThoughtUtils.cs",
+              "RelativeDocumentMoniker": "PlayGenericTargetingGame\\Thoughts\\TogetherThoughtUtils.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\Thoughts\\TogetherThoughtUtils.cs",
+              "RelativeToolTip": "PlayGenericTargetingGame\\Thoughts\\TogetherThoughtUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:31:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thoughts.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\parameters\\Thoughts.cs",
+              "RelativeDocumentMoniker": "PlayGenericTargetingGame\\parameters\\Thoughts.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\parameters\\Thoughts.cs",
+              "RelativeToolTip": "PlayGenericTargetingGame\\parameters\\Thoughts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:31:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectileOption.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\parameters\\ProjectileOption.cs",
+              "RelativeDocumentMoniker": "PlayGenericTargetingGame\\parameters\\ProjectileOption.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\PlayGenericTargetingGame\\parameters\\ProjectileOption.cs",
+              "RelativeToolTip": "PlayGenericTargetingGame\\parameters\\ProjectileOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:31:31.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JoyOfNature_JoyGiverDef.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\JoyOfNature\\JoyGiver\\JoyOfNature_JoyGiverDef.cs",
+              "RelativeDocumentMoniker": "JoyOfNature\\JoyGiver\\JoyOfNature_JoyGiverDef.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\JoyOfNature\\JoyGiver\\JoyOfNature_JoyGiverDef.cs",
+              "RelativeToolTip": "JoyOfNature\\JoyGiver\\JoyOfNature_JoyGiverDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:31:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobDriver_ThrowRocks.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\JoyOfNature\\JobDriver\\JobDriver_ThrowRocks.cs",
+              "RelativeDocumentMoniker": "JoyOfNature\\JobDriver\\JobDriver_ThrowRocks.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\JoyOfNature\\JobDriver\\JobDriver_ThrowRocks.cs",
+              "RelativeToolTip": "JoyOfNature\\JobDriver\\JobDriver_ThrowRocks.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAWwA8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:30:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\conse\\Documents\\GitHub\\MoharFramework\\Source\\MoharJoy\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T15:29:59.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1466,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

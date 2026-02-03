@@ -1,7 +1,5 @@
 using Verse;
 using Ubet;
-using System.Collections.Generic;
-using RimWorld;
 
 namespace UbetTester
 {
